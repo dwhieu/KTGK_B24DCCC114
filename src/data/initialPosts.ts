@@ -6,7 +6,7 @@ export const initialPosts: Post[] = [
 		id: uid(),
 		title: "Hướng dẫn cơ bản React Router",
 		author: "Admin",
-		thumbnailUrl: "https://images.unsplash.com/photo-1502767089025-6572583495b0?w=800",
+		thumbnailUrl: "https://tse1.mm.bing.net/th/id/OIP.JCGGgssMIuUrZFU3I6jv0AHaHC?pid=Api&P=0&h=220",
 		content:
 			"React Router giúp điều hướng trong các ứng dụng SPA. Bài viết này hướng dẫn cấu hình cơ bản, định tuyến lồng nhau, và kỹ thuật bảo vệ route với TypeScript.",
 		category: "Công nghệ",
